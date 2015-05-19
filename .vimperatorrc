@@ -5,3 +5,13 @@
 
 :noremap j 5j
 :noremap k 5k
+
+:nmap <S-h> :tabprevious<CR>
+:nmap <S-l> :tabnext<CR>
+
+:nmap <C-S-h> :tabmove -1<CR>
+:nmap <C-S-l> :tabmove +1<CR>
+
+:nmap <C-h> :back<CR>
+:nmap <C-l> :forward<CR>
+
