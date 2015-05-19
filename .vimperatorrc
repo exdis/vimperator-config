@@ -1,0 +1,7 @@
+:set hintchars=hsdfgyuiopqwertnmzxcvb
+:colorscheme dark
+
+:let g:smooth_scroll_duration=100
+
+:noremap j 5j
+:noremap k 5k
